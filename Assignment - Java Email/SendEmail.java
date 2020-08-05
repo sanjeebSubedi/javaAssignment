@@ -18,7 +18,7 @@ public class SendEmail {
 		// Add sender
 		String from = "sanjeebsubedi4@gmail.com";
 		final String username = "sanjeebsubedi4@gmail.com";// your Gmail username
-		final String password = "balespurs11";// your Gmail password
+		final String password = "";// your Gmail password
 		String host = "smtp.gmail.com";
 
 		Properties props = new Properties();
